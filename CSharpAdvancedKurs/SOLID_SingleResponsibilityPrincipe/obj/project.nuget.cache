@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "BCit1NrfG3snh7h+8DYBZgXJvbm2AEoBU8Uc9TRkXBN/DUOTjZFBnbWnG1EnqrdHCS333ZM2RiK1yEVXKfKexQ==",
+  "success": true,
+  "projectFilePath": "C:\\Aktueller Kurs\\CSharpFortgeschritten_2022_KW10_ppedv-\\CSharpAdvancedKurs\\SOLID_SingleResponsibilityPrincipe\\SOLID_SingleResponsibilityPrincipe.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kw4\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

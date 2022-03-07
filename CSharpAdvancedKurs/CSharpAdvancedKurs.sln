@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31919.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{A3D25356-28D6-4898-AD91-5D916D1391F3}"
+	ProjectSection(SolutionItems) = preProject
+		..\Agenda.md = ..\Agenda.md
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SOLID", "SOLID", "{3D4687C3-B58E-4ECB-A084-3CE661B6F3A7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SOLID_SingleResponsibilityPrincipe", "SOLID_SingleResponsibilityPrincipe\SOLID_SingleResponsibilityPrincipe.csproj", "{5B5BE944-2B22-4E47-B358-52F7FD673DFF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5B5BE944-2B22-4E47-B358-52F7FD673DFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B5BE944-2B22-4E47-B358-52F7FD673DFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B5BE944-2B22-4E47-B358-52F7FD673DFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B5BE944-2B22-4E47-B358-52F7FD673DFF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{5B5BE944-2B22-4E47-B358-52F7FD673DFF} = {3D4687C3-B58E-4ECB-A084-3CE661B6F3A7}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ECEBA34A-57D2-4D7E-AC73-655650BE7114}
+	EndGlobalSection
+EndGlobal
