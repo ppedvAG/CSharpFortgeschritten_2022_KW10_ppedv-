@@ -36,7 +36,6 @@ namespace DelegatesActionsFuncsSamples
             myOffSetActionDelegate(11);
             #endregion
 
-
             OutAction<int, int> action = MyMethode;
             int a = 3, b = 5;
             Console.WriteLine("{0}/{1}", a, b);
@@ -51,7 +50,6 @@ namespace DelegatesActionsFuncsSamples
             Func<int, int, int> myOffSetFunDelegate2 = new Func<int, int, int>(Addieren);
 
             Console.WriteLine(myOffSetFunDelegate2(11, 11));
-
             #endregion
 
         }

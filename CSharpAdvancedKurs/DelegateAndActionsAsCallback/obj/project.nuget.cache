@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "tB4zFqemhPl2W+IoGjF6c0t3n/vSTVUVr4XJ2wvww0Y6CR7qmczS889AspHejCoQoImzPajqtKT4VoN3aatquw==",
+  "success": true,
+  "projectFilePath": "C:\\Aktueller Kurs\\CSharpFortgeschritten_2022_KW10_ppedv-\\CSharpAdvancedKurs\\DelegateAndActionsAsCallback\\DelegateAndActionsAsCallback.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kw4\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}
