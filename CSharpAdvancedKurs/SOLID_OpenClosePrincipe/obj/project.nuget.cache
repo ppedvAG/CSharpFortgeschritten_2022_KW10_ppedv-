@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "hh1nDE3bdksxZXGB/8VjI5TUtoh+QEQfuKhUVoafSQRxedQKLLO+/0hlf4StRk44LAYUlfqxbTpf/F7yRrNmPg==",
+  "success": true,
+  "projectFilePath": "C:\\Aktueller Kurs\\CSharpFortgeschritten_2022_KW10_ppedv-\\CSharpAdvancedKurs\\SOLID_OpenClosePrincipe\\SOLID_OpenClosePrincipe.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kw4\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}
