@@ -6,7 +6,12 @@ namespace Übung_Solid1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            IReportGenerator reportGenerator = new PDFReportGenerator();
+
+            IReportGenerator list10Generator = new List10();
+
+            ReportGeneratorBase crystalReportGenerator = new CrystalReports();
+
         }
     }
 
@@ -50,6 +55,102 @@ namespace Übung_Solid1
     }
 
     #endregion
+
+
+    public interface IEmployee
+    {
+        string Marke { get; set; }
+        string Modell { get; set; }
+        int Baujahr { get; set; }
+    }
+
+    public class Employee : IEmployee
+    {
+        public string Marke { get; set; }
+        public string Modell { get; set; }
+        public int Baujahr { get; set; }
+    }
+
+    //Variante 1
+    public class EmployeeRepository
+    {
+        public void Insert(Employee employee)
+        {
+            //speicher einen Datensatz
+        }
+    }
+
+
+    #region Open Part
+    //Variante 1
+
+    public interface IReportGenerator
+    {
+        //C# 9.0 auf .NET 5
+        void Init ()
+        {
+            Console.WriteLine("Meine Basis Implementierung");
+        }
+
+        void Generate(IEmployee em);
+    }
+
+    //Variante 2
+    public abstract class ReportGeneratorBase
+    {
+        public string OutPutDirectory { get; set; }
+        void Init()
+        {
+            Console.WriteLine("Meine Basis Implementierung");
+        }
+
+        public virtual string ShowReportVersion()
+        {
+           return "Virtual Methode";
+        }
+        public abstract void Generate(IEmployee em);
+    }
+
+    //Variante 1 und 2 in Kombination
+    public abstract class ReportGeneratorBase2 : IReportGenerator
+    {
+        public abstract void Generate(IEmployee em);
+    }
+    #endregion
+
+    #region Close Part
+    //Variante 1 mit Interface
+    public class PDFReportGenerator : IReportGenerator
+    {
+        public void Generate(IEmployee em)
+        {
+            //Erstelle ein Report
+        }
+    }
+
+    //Variante 2 mit abstract class
+
+    public class CrystalReports : ReportGeneratorBase
+    {
+        public override void Generate(IEmployee em)
+        {
+            //Erstelle ein Report
+        }
+    }
+
+
+    public class List10 : ReportGeneratorBase2 
+    {
+        public override void Generate(IEmployee em)
+        {
+           //Erstelle ein Report
+        }
+    }
+    #endregion
+
+
+
+
 
 
 

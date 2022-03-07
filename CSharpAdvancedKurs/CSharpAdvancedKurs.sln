@@ -6,6 +6,7 @@ MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{A3D25356-28D6-4898-AD91-5D916D1391F3}"
 	ProjectSection(SolutionItems) = preProject
 		..\Agenda.md = ..\Agenda.md
+		QuestionAndAnswer.md = QuestionAndAnswer.md
 	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SOLID", "SOLID", "{3D4687C3-B58E-4ECB-A084-3CE661B6F3A7}"
@@ -19,6 +20,14 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SOLID_Infertace_Segeration_Principe", "SOLID_Infertace_Segeration_Principe\SOLID_Infertace_Segeration_Principe.csproj", "{5F23F16E-702E-453E-96C2-BCAA2364FC40}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SOLID_DependencyInversion", "SOLID_DependencyInversion\SOLID_DependencyInversion.csproj", "{D94B0D42-7051-4D00-863F-4B6B0C2E9E05}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Labs", "Labs", "{616D274D-004E-4CDD-9732-AB2E34954BA7}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Übung_Solid1", "Übung_Solid1\Übung_Solid1.csproj", "{5F4B01F5-29B1-4805-A3AE-C33A52C70338}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Delegates", "Delegates", "{7DD8BF9B-56D4-4C34-B92A-AFCFB6383C69}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DelegatesActionsFuncsSamples", "DelegatesActionsFuncsSamples\DelegatesActionsFuncsSamples.csproj", "{AB67D0C5-434C-48F0-9F8F-9D7337D8F28E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -46,6 +55,14 @@ Global
 		{D94B0D42-7051-4D00-863F-4B6B0C2E9E05}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D94B0D42-7051-4D00-863F-4B6B0C2E9E05}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D94B0D42-7051-4D00-863F-4B6B0C2E9E05}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F4B01F5-29B1-4805-A3AE-C33A52C70338}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F4B01F5-29B1-4805-A3AE-C33A52C70338}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F4B01F5-29B1-4805-A3AE-C33A52C70338}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F4B01F5-29B1-4805-A3AE-C33A52C70338}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB67D0C5-434C-48F0-9F8F-9D7337D8F28E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB67D0C5-434C-48F0-9F8F-9D7337D8F28E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB67D0C5-434C-48F0-9F8F-9D7337D8F28E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB67D0C5-434C-48F0-9F8F-9D7337D8F28E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -56,6 +73,9 @@ Global
 		{7034DCBA-0BD3-4F81-8ABA-C9D780979430} = {3D4687C3-B58E-4ECB-A084-3CE661B6F3A7}
 		{5F23F16E-702E-453E-96C2-BCAA2364FC40} = {3D4687C3-B58E-4ECB-A084-3CE661B6F3A7}
 		{D94B0D42-7051-4D00-863F-4B6B0C2E9E05} = {3D4687C3-B58E-4ECB-A084-3CE661B6F3A7}
+		{616D274D-004E-4CDD-9732-AB2E34954BA7} = {3D4687C3-B58E-4ECB-A084-3CE661B6F3A7}
+		{5F4B01F5-29B1-4805-A3AE-C33A52C70338} = {616D274D-004E-4CDD-9732-AB2E34954BA7}
+		{AB67D0C5-434C-48F0-9F8F-9D7337D8F28E} = {7DD8BF9B-56D4-4C34-B92A-AFCFB6383C69}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {ECEBA34A-57D2-4D7E-AC73-655650BE7114}
