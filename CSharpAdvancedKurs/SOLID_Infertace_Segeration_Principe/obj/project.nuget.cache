@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "t26Z6uWlkbXL9rDfsecRMYchN47iY6Doi3jwDqjJ/f9q8ErfAjvsvvfVYOkbLeOwP4GtosLcU2gw47NHWjIXrg==",
+  "success": true,
+  "projectFilePath": "C:\\Aktueller Kurs\\CSharpFortgeschritten_2022_KW10_ppedv-\\CSharpAdvancedKurs\\SOLID_Infertace_Segeration_Principe\\SOLID_Infertace_Segeration_Principe.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kw4\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}
