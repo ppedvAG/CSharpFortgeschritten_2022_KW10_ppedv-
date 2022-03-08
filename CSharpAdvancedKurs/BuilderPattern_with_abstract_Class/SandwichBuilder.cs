@@ -28,8 +28,5 @@ namespace BuilderPattern_with_abstract_Class
         public abstract void AddCheese();
         public abstract void AddVeggies();
         public abstract void AddCondiments();
-
-
-        
     }
 }

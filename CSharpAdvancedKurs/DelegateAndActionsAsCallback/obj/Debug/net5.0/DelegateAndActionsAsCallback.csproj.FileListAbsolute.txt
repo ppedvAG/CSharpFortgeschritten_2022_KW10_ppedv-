@@ -5,6 +5,7 @@ C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\Dele
 C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\DelegateAndActionsAsCallback\bin\Debug\net5.0\DelegateAndActionsAsCallback.dll
 C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\DelegateAndActionsAsCallback\bin\Debug\net5.0\ref\DelegateAndActionsAsCallback.dll
 C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\DelegateAndActionsAsCallback\bin\Debug\net5.0\DelegateAndActionsAsCallback.pdb
+C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\DelegateAndActionsAsCallback\obj\Debug\net5.0\DelegateAndActionsAsCallback.csproj.AssemblyReference.cache
 C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\DelegateAndActionsAsCallback\obj\Debug\net5.0\DelegateAndActionsAsCallback.GeneratedMSBuildEditorConfig.editorconfig
 C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\DelegateAndActionsAsCallback\obj\Debug\net5.0\DelegateAndActionsAsCallback.AssemblyInfoInputs.cache
 C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\DelegateAndActionsAsCallback\obj\Debug\net5.0\DelegateAndActionsAsCallback.AssemblyInfo.cs

@@ -1,0 +1,16 @@
+C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\001a_ThreadStarten\bin\Debug\net5.0\001a_ThreadStarten.exe
+C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\001a_ThreadStarten\bin\Debug\net5.0\001a_ThreadStarten.deps.json
+C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\001a_ThreadStarten\bin\Debug\net5.0\001a_ThreadStarten.runtimeconfig.json
+C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\001a_ThreadStarten\bin\Debug\net5.0\001a_ThreadStarten.runtimeconfig.dev.json
+C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\001a_ThreadStarten\bin\Debug\net5.0\001a_ThreadStarten.dll
+C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\001a_ThreadStarten\bin\Debug\net5.0\ref\001a_ThreadStarten.dll
+C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\001a_ThreadStarten\bin\Debug\net5.0\001a_ThreadStarten.pdb
+C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\001a_ThreadStarten\obj\Debug\net5.0\001a_ThreadStarten.csproj.AssemblyReference.cache
+C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\001a_ThreadStarten\obj\Debug\net5.0\001a_ThreadStarten.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\001a_ThreadStarten\obj\Debug\net5.0\001a_ThreadStarten.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\001a_ThreadStarten\obj\Debug\net5.0\001a_ThreadStarten.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\001a_ThreadStarten\obj\Debug\net5.0\001a_ThreadStarten.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\001a_ThreadStarten\obj\Debug\net5.0\001a_ThreadStarten.dll
+C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\001a_ThreadStarten\obj\Debug\net5.0\ref\001a_ThreadStarten.dll
+C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\001a_ThreadStarten\obj\Debug\net5.0\001a_ThreadStarten.pdb
+C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\001a_ThreadStarten\obj\Debug\net5.0\001a_ThreadStarten.genruntimeconfig.cache

@@ -11,15 +11,15 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SOLID", "SOLID", "{3D4687C3-B58E-4ECB-A084-3CE661B6F3A7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SOLID_SingleResponsibilityPrincipe", "SOLID_SingleResponsibilityPrincipe\SOLID_SingleResponsibilityPrincipe.csproj", "{5B5BE944-2B22-4E47-B358-52F7FD673DFF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SOLID_SingleResponsibilityPrincipe", "SOLID_SingleResponsibilityPrincipe\SOLID_SingleResponsibilityPrincipe.csproj", "{5B5BE944-2B22-4E47-B358-52F7FD673DFF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SOLID_OpenClosePrincipe", "SOLID_OpenClosePrincipe\SOLID_OpenClosePrincipe.csproj", "{C5C8F82C-1094-4CE8-9FD4-C4791AC9223F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SOLID_OpenClosePrincipe", "SOLID_OpenClosePrincipe\SOLID_OpenClosePrincipe.csproj", "{C5C8F82C-1094-4CE8-9FD4-C4791AC9223F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SOLID_LizkovischesPrinzip", "SOLID_LizkovischesPrinzip\SOLID_LizkovischesPrinzip.csproj", "{7034DCBA-0BD3-4F81-8ABA-C9D780979430}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SOLID_LizkovischesPrinzip", "SOLID_LizkovischesPrinzip\SOLID_LizkovischesPrinzip.csproj", "{7034DCBA-0BD3-4F81-8ABA-C9D780979430}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SOLID_Infertace_Segeration_Principe", "SOLID_Infertace_Segeration_Principe\SOLID_Infertace_Segeration_Principe.csproj", "{5F23F16E-702E-453E-96C2-BCAA2364FC40}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SOLID_Infertace_Segeration_Principe", "SOLID_Infertace_Segeration_Principe\SOLID_Infertace_Segeration_Principe.csproj", "{5F23F16E-702E-453E-96C2-BCAA2364FC40}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SOLID_DependencyInversion", "SOLID_DependencyInversion\SOLID_DependencyInversion.csproj", "{D94B0D42-7051-4D00-863F-4B6B0C2E9E05}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SOLID_DependencyInversion", "SOLID_DependencyInversion\SOLID_DependencyInversion.csproj", "{D94B0D42-7051-4D00-863F-4B6B0C2E9E05}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Labs", "Labs", "{616D274D-004E-4CDD-9732-AB2E34954BA7}"
 EndProject
@@ -27,11 +27,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Übung_Solid1", "Übung_Sol
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Delegates", "Delegates", "{7DD8BF9B-56D4-4C34-B92A-AFCFB6383C69}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DelegatesActionsFuncsSamples", "DelegatesActionsFuncsSamples\DelegatesActionsFuncsSamples.csproj", "{AB67D0C5-434C-48F0-9F8F-9D7337D8F28E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DelegatesActionsFuncsSamples", "DelegatesActionsFuncsSamples\DelegatesActionsFuncsSamples.csproj", "{AB67D0C5-434C-48F0-9F8F-9D7337D8F28E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DelegateAndActionsAsCallback", "DelegateAndActionsAsCallback\DelegateAndActionsAsCallback.csproj", "{C080F53E-A5F9-44FC-8434-96ABEFDC5F81}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DelegateAndActionsAsCallback", "DelegateAndActionsAsCallback\DelegateAndActionsAsCallback.csproj", "{C080F53E-A5F9-44FC-8434-96ABEFDC5F81}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventAndEventHandler", "EventAndEventHandler\EventAndEventHandler.csproj", "{37101CE5-384D-486E-B973-1E66469CD803}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EventAndEventHandler", "EventAndEventHandler\EventAndEventHandler.csproj", "{37101CE5-384D-486E-B973-1E66469CD803}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Benchmarks", "Benchmarks", "{6CCDBD32-8FA7-4810-BD0E-9826C554C44D}"
 EndProject
@@ -44,6 +44,18 @@ EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BuilderPattern_with_abstract_Class", "BuilderPattern_with_abstract_Class\BuilderPattern_with_abstract_Class.csproj", "{CB23191C-12FC-48A8-BA9E-14812415B307}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BuilderDesignPatternVSFluentBuilder", "BuilderDesignPatternVSFluentBuilder\BuilderDesignPatternVSFluentBuilder.csproj", "{F599EB67-40A9-41E5-8F04-7AE8499FD7DC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Threading", "Threading", "{BED21C9E-707C-450E-9046-ABCE69041251}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "001_ThreadStarten", "001_ThreadStarten\001_ThreadStarten.csproj", "{EB511FDF-DD9D-4EED-97A2-6FE25C0BC515}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "002_ThreadMitParameterStarten", "002_ThreadMitParameterStarten\002_ThreadMitParameterStarten.csproj", "{6150C928-3482-440D-BFE2-9AC329EE0C7C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "003_Thread_Beenden", "Thread_Beenden\003_Thread_Beenden.csproj", "{734CE716-7F6C-467D-9518-9252C9FFAED8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "003a_Thread_Beenden", "003a_Thread_Beenden\003a_Thread_Beenden.csproj", "{2F76A93E-9DA6-457D-9AA5-3AE4B7F8E531}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Thread_BeendenWithCancelation", "Thread_BeendenWithCancelation\Thread_BeendenWithCancelation.csproj", "{3F7D80DE-DAC3-4AE4-833B-DE4DC915D6E8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -103,6 +115,26 @@ Global
 		{F599EB67-40A9-41E5-8F04-7AE8499FD7DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F599EB67-40A9-41E5-8F04-7AE8499FD7DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F599EB67-40A9-41E5-8F04-7AE8499FD7DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB511FDF-DD9D-4EED-97A2-6FE25C0BC515}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB511FDF-DD9D-4EED-97A2-6FE25C0BC515}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB511FDF-DD9D-4EED-97A2-6FE25C0BC515}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB511FDF-DD9D-4EED-97A2-6FE25C0BC515}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6150C928-3482-440D-BFE2-9AC329EE0C7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6150C928-3482-440D-BFE2-9AC329EE0C7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6150C928-3482-440D-BFE2-9AC329EE0C7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6150C928-3482-440D-BFE2-9AC329EE0C7C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{734CE716-7F6C-467D-9518-9252C9FFAED8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{734CE716-7F6C-467D-9518-9252C9FFAED8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{734CE716-7F6C-467D-9518-9252C9FFAED8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{734CE716-7F6C-467D-9518-9252C9FFAED8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F76A93E-9DA6-457D-9AA5-3AE4B7F8E531}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F76A93E-9DA6-457D-9AA5-3AE4B7F8E531}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F76A93E-9DA6-457D-9AA5-3AE4B7F8E531}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F76A93E-9DA6-457D-9AA5-3AE4B7F8E531}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F7D80DE-DAC3-4AE4-833B-DE4DC915D6E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F7D80DE-DAC3-4AE4-833B-DE4DC915D6E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F7D80DE-DAC3-4AE4-833B-DE4DC915D6E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F7D80DE-DAC3-4AE4-833B-DE4DC915D6E8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -122,6 +154,11 @@ Global
 		{AF7F1C72-D94A-493D-96B4-E27FA1DD2734} = {CECD9933-9804-47CF-ABBD-4910BA27F67F}
 		{CB23191C-12FC-48A8-BA9E-14812415B307} = {CECD9933-9804-47CF-ABBD-4910BA27F67F}
 		{F599EB67-40A9-41E5-8F04-7AE8499FD7DC} = {CECD9933-9804-47CF-ABBD-4910BA27F67F}
+		{EB511FDF-DD9D-4EED-97A2-6FE25C0BC515} = {BED21C9E-707C-450E-9046-ABCE69041251}
+		{6150C928-3482-440D-BFE2-9AC329EE0C7C} = {BED21C9E-707C-450E-9046-ABCE69041251}
+		{734CE716-7F6C-467D-9518-9252C9FFAED8} = {BED21C9E-707C-450E-9046-ABCE69041251}
+		{2F76A93E-9DA6-457D-9AA5-3AE4B7F8E531} = {BED21C9E-707C-450E-9046-ABCE69041251}
+		{3F7D80DE-DAC3-4AE4-833B-DE4DC915D6E8} = {BED21C9E-707C-450E-9046-ABCE69041251}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {ECEBA34A-57D2-4D7E-AC73-655650BE7114}

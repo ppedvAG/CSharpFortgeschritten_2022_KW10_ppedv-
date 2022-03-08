@@ -5,7 +5,6 @@ C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\Even
 C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\EventAndEventHandler\bin\Debug\net5.0\EventAndEventHandler.dll
 C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\EventAndEventHandler\bin\Debug\net5.0\ref\EventAndEventHandler.dll
 C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\EventAndEventHandler\bin\Debug\net5.0\EventAndEventHandler.pdb
-C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\EventAndEventHandler\obj\Debug\net5.0\EventAndEventHandler.csproj.AssemblyReference.cache
 C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\EventAndEventHandler\obj\Debug\net5.0\EventAndEventHandler.GeneratedMSBuildEditorConfig.editorconfig
 C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\EventAndEventHandler\obj\Debug\net5.0\EventAndEventHandler.AssemblyInfoInputs.cache
 C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\EventAndEventHandler\obj\Debug\net5.0\EventAndEventHandler.AssemblyInfo.cs

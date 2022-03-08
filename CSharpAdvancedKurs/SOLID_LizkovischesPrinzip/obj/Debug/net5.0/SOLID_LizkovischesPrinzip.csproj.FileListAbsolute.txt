@@ -1,0 +1,16 @@
+C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\SOLID_LizkovischesPrinzip\bin\Debug\net5.0\SOLID_LizkovischesPrinzip.exe
+C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\SOLID_LizkovischesPrinzip\bin\Debug\net5.0\SOLID_LizkovischesPrinzip.deps.json
+C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\SOLID_LizkovischesPrinzip\bin\Debug\net5.0\SOLID_LizkovischesPrinzip.runtimeconfig.json
+C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\SOLID_LizkovischesPrinzip\bin\Debug\net5.0\SOLID_LizkovischesPrinzip.runtimeconfig.dev.json
+C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\SOLID_LizkovischesPrinzip\bin\Debug\net5.0\SOLID_LizkovischesPrinzip.dll
+C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\SOLID_LizkovischesPrinzip\bin\Debug\net5.0\ref\SOLID_LizkovischesPrinzip.dll
+C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\SOLID_LizkovischesPrinzip\bin\Debug\net5.0\SOLID_LizkovischesPrinzip.pdb
+C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\SOLID_LizkovischesPrinzip\obj\Debug\net5.0\SOLID_LizkovischesPrinzip.csproj.AssemblyReference.cache
+C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\SOLID_LizkovischesPrinzip\obj\Debug\net5.0\SOLID_LizkovischesPrinzip.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\SOLID_LizkovischesPrinzip\obj\Debug\net5.0\SOLID_LizkovischesPrinzip.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\SOLID_LizkovischesPrinzip\obj\Debug\net5.0\SOLID_LizkovischesPrinzip.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\SOLID_LizkovischesPrinzip\obj\Debug\net5.0\SOLID_LizkovischesPrinzip.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\SOLID_LizkovischesPrinzip\obj\Debug\net5.0\SOLID_LizkovischesPrinzip.dll
+C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\SOLID_LizkovischesPrinzip\obj\Debug\net5.0\ref\SOLID_LizkovischesPrinzip.dll
+C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\SOLID_LizkovischesPrinzip\obj\Debug\net5.0\SOLID_LizkovischesPrinzip.pdb
+C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\SOLID_LizkovischesPrinzip\obj\Debug\net5.0\SOLID_LizkovischesPrinzip.genruntimeconfig.cache

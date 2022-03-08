@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "sutKguG9PB4ri1KpCJjfIBX13N7udJtMQSqzFrR7Ivev6vyHmXjyh+JFEt7Pg65YM7WqdLC439Wq29uzKzuY0g==",
+  "success": true,
+  "projectFilePath": "C:\\Aktueller Kurs\\CSharpFortgeschritten_2022_KW10_ppedv-\\CSharpAdvancedKurs\\001a_ThreadStarten\\001a_ThreadStarten.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kw4\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}
