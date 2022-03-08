@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Aktueller Kurs\\CSharpAdvanced_KW08_ppedv\\CSharpAdvancedKurs\\GenericConstraintSample\\GenericConstraintSample.csproj",
+      "projectUniqueName": "C:\\Aktueller Kurs\\CSharpFortgeschritten_2022_KW10_ppedv-\\CSharpAdvancedKurs\\GenericConstraintSample\\GenericConstraintSample.csproj",
       "projectName": "GenericConstraintSample",
-      "projectPath": "C:\\Aktueller Kurs\\CSharpAdvanced_KW08_ppedv\\CSharpAdvancedKurs\\GenericConstraintSample\\GenericConstraintSample.csproj",
+      "projectPath": "C:\\Aktueller Kurs\\CSharpFortgeschritten_2022_KW10_ppedv-\\CSharpAdvancedKurs\\GenericConstraintSample\\GenericConstraintSample.csproj",
       "packagesPath": "C:\\Users\\kw4\\.nuget\\packages\\",
-      "outputPath": "C:\\Aktueller Kurs\\CSharpAdvanced_KW08_ppedv\\CSharpAdvancedKurs\\GenericConstraintSample\\obj\\",
+      "outputPath": "C:\\Aktueller Kurs\\CSharpFortgeschritten_2022_KW10_ppedv-\\CSharpAdvancedKurs\\GenericConstraintSample\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
