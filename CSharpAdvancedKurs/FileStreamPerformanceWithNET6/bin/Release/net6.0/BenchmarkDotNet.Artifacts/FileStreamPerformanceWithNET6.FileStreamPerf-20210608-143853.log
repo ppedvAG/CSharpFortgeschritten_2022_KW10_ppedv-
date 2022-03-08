@@ -1,0 +1,158 @@
+// Validating benchmarks:
+// ***** BenchmarkRunner: Start   *****
+// ***** Found 2 benchmark(s) in total *****
+// ***** Building 1 exe(s) in Parallel: Start   *****
+// start dotnet restore  /p:UseSharedCompilation=false /p:BuildInParallel=false /m:1 /p:Deterministic=true /p:Optimize=true in C:\KnowledgeCodes\NET6 Previews\NET6_Features\FileStreamPerformanceWithNET6\bin\Release\net6.0\ae15f5c7-fe62-4440-b2cd-01822e8395e4
+// command took 1,27s and exited with 0
+// start dotnet build -c Release  --no-restore /p:UseSharedCompilation=false /p:BuildInParallel=false /m:1 /p:Deterministic=true /p:Optimize=true in C:\KnowledgeCodes\NET6 Previews\NET6_Features\FileStreamPerformanceWithNET6\bin\Release\net6.0\ae15f5c7-fe62-4440-b2cd-01822e8395e4
+// command took 2,53s and exited with 0
+// ***** Done, took 00:00:03 (4 sec)   *****
+// Found 2 benchmarks:
+//   FileStreamPerf.ReadAsync: DefaultJob
+//   FileStreamPerf.WriteAsync: DefaultJob
+
+// **************************
+// Benchmark: FileStreamPerf.ReadAsync: DefaultJob
+// *** Execute ***
+// Launch: 1 / 1
+// Execute: dotnet "ae15f5c7-fe62-4440-b2cd-01822e8395e4.dll" --benchmarkName "FileStreamPerformanceWithNET6.FileStreamPerf.ReadAsync" --job "Default" --benchmarkId 0 in C:\KnowledgeCodes\NET6 Previews\NET6_Features\FileStreamPerformanceWithNET6\bin\Release\net6.0\ae15f5c7-fe62-4440-b2cd-01822e8395e4\bin\Release\net6.0
+// BeforeAnythingElse
+
+// Benchmark Process Environment Information:
+// Runtime=.NET 6.0.0 (6.0.21.25307), X64 RyuJIT
+// GC=Concurrent Workstation
+// Job: DefaultJob
+
+OverheadJitting  1: 1 op, 372700.00 ns, 372.7000 us/op
+WorkloadJitting  1: 1 op, 15392000.00 ns, 15.3920 ms/op
+
+OverheadJitting  2: 16 op, 361800.00 ns, 22.6125 us/op
+WorkloadJitting  2: 16 op, 21341300.00 ns, 1.3338 ms/op
+
+WorkloadPilot    1: 16 op, 21533400.00 ns, 1.3458 ms/op
+WorkloadPilot    2: 32 op, 35865500.00 ns, 1.1208 ms/op
+WorkloadPilot    3: 64 op, 70040200.00 ns, 1.0944 ms/op
+WorkloadPilot    4: 128 op, 141458500.00 ns, 1.1051 ms/op
+WorkloadPilot    5: 256 op, 262956800.00 ns, 1.0272 ms/op
+WorkloadPilot    6: 512 op, 537002900.00 ns, 1.0488 ms/op
+
+OverheadWarmup   1: 512 op, 2600.00 ns, 5.0781 ns/op
+OverheadWarmup   2: 512 op, 1900.00 ns, 3.7109 ns/op
+OverheadWarmup   3: 512 op, 2100.00 ns, 4.1016 ns/op
+OverheadWarmup   4: 512 op, 1600.00 ns, 3.1250 ns/op
+OverheadWarmup   5: 512 op, 2100.00 ns, 4.1016 ns/op
+OverheadWarmup   6: 512 op, 1700.00 ns, 3.3203 ns/op
+
+OverheadActual   1: 512 op, 1800.00 ns, 3.5156 ns/op
+OverheadActual   2: 512 op, 1800.00 ns, 3.5156 ns/op
+OverheadActual   3: 512 op, 2000.00 ns, 3.9062 ns/op
+OverheadActual   4: 512 op, 1800.00 ns, 3.5156 ns/op
+OverheadActual   5: 512 op, 1700.00 ns, 3.3203 ns/op
+OverheadActual   6: 512 op, 1600.00 ns, 3.1250 ns/op
+OverheadActual   7: 512 op, 1400.00 ns, 2.7344 ns/op
+OverheadActual   8: 512 op, 1700.00 ns, 3.3203 ns/op
+OverheadActual   9: 512 op, 1500.00 ns, 2.9297 ns/op
+OverheadActual  10: 512 op, 1200.00 ns, 2.3438 ns/op
+OverheadActual  11: 512 op, 1300.00 ns, 2.5391 ns/op
+OverheadActual  12: 512 op, 1300.00 ns, 2.5391 ns/op
+OverheadActual  13: 512 op, 1500.00 ns, 2.9297 ns/op
+OverheadActual  14: 512 op, 2300.00 ns, 4.4922 ns/op
+OverheadActual  15: 512 op, 1600.00 ns, 3.1250 ns/op
+OverheadActual  16: 512 op, 1300.00 ns, 2.5391 ns/op
+OverheadActual  17: 512 op, 1300.00 ns, 2.5391 ns/op
+OverheadActual  18: 512 op, 2500.00 ns, 4.8828 ns/op
+OverheadActual  19: 512 op, 1900.00 ns, 3.7109 ns/op
+OverheadActual  20: 512 op, 1500.00 ns, 2.9297 ns/op
+
+WorkloadWarmup   1: 512 op, 551176600.00 ns, 1.0765 ms/op
+WorkloadWarmup   2: 512 op, 591331300.00 ns, 1.1549 ms/op
+WorkloadWarmup   3: 512 op, 522289900.00 ns, 1.0201 ms/op
+WorkloadWarmup   4: 512 op, 520939500.00 ns, 1.0175 ms/op
+WorkloadWarmup   5: 512 op, 511225400.00 ns, 998.4871 us/op
+WorkloadWarmup   6: 512 op, 518528000.00 ns, 1.0128 ms/op
+WorkloadWarmup   7: 512 op, 509510400.00 ns, 995.1375 us/op
+
+// BeforeActualRun
+WorkloadActual   1: 512 op, 526884000.00 ns, 1.0291 ms/op
+WorkloadActual   2: 512 op, 504455100.00 ns, 985.2639 us/op
+WorkloadActual   3: 512 op, 526883200.00 ns, 1.0291 ms/op
+WorkloadActual   4: 512 op, 510214200.00 ns, 996.5121 us/op
+WorkloadActual   5: 512 op, 523738400.00 ns, 1.0229 ms/op
+WorkloadActual   6: 512 op, 514824300.00 ns, 1.0055 ms/op
+WorkloadActual   7: 512 op, 519690400.00 ns, 1.0150 ms/op
+WorkloadActual   8: 512 op, 530203600.00 ns, 1.0356 ms/op
+WorkloadActual   9: 512 op, 521767300.00 ns, 1.0191 ms/op
+WorkloadActual  10: 512 op, 516740200.00 ns, 1.0093 ms/op
+WorkloadActual  11: 512 op, 529339000.00 ns, 1.0339 ms/op
+WorkloadActual  12: 512 op, 519762500.00 ns, 1.0152 ms/op
+WorkloadActual  13: 512 op, 516240700.00 ns, 1.0083 ms/op
+WorkloadActual  14: 512 op, 516080200.00 ns, 1.0080 ms/op
+WorkloadActual  15: 512 op, 507684200.00 ns, 991.5707 us/op
+
+// AfterActualRun
+WorkloadResult   1: 512 op, 526882400.00 ns, 1.0291 ms/op
+WorkloadResult   2: 512 op, 504453500.00 ns, 985.2607 us/op
+WorkloadResult   3: 512 op, 526881600.00 ns, 1.0291 ms/op
+WorkloadResult   4: 512 op, 510212600.00 ns, 996.5090 us/op
+WorkloadResult   5: 512 op, 523736800.00 ns, 1.0229 ms/op
+WorkloadResult   6: 512 op, 514822700.00 ns, 1.0055 ms/op
+WorkloadResult   7: 512 op, 519688800.00 ns, 1.0150 ms/op
+WorkloadResult   8: 512 op, 530202000.00 ns, 1.0356 ms/op
+WorkloadResult   9: 512 op, 521765700.00 ns, 1.0191 ms/op
+WorkloadResult  10: 512 op, 516738600.00 ns, 1.0093 ms/op
+WorkloadResult  11: 512 op, 529337400.00 ns, 1.0339 ms/op
+WorkloadResult  12: 512 op, 519760900.00 ns, 1.0152 ms/op
+WorkloadResult  13: 512 op, 516239100.00 ns, 1.0083 ms/op
+WorkloadResult  14: 512 op, 516078600.00 ns, 1.0080 ms/op
+WorkloadResult  15: 512 op, 507682600.00 ns, 991.5676 us/op
+
+// AfterAll
+// Benchmark Process 21300 has exited with code 0
+
+Mean = 1.014 ms, StdErr = 0.004 ms (0.39%), N = 15, StdDev = 0.015 ms
+Min = 0.985 ms, Q1 = 1.007 ms, Median = 1.015 ms, Q3 = 1.026 ms, Max = 1.036 ms
+IQR = 0.019 ms, LowerFence = 0.978 ms, UpperFence = 1.055 ms
+ConfidenceInterval = [0.997 ms; 1.030 ms] (CI 99.9%), Margin = 0.016 ms (1.60% of Mean)
+Skewness = -0.23, Kurtosis = 1.89, MValue = 2
+
+// **************************
+// Benchmark: FileStreamPerf.WriteAsync: DefaultJob
+// *** Execute ***
+// Launch: 1 / 1
+// Execute: dotnet "ae15f5c7-fe62-4440-b2cd-01822e8395e4.dll" --benchmarkName "FileStreamPerformanceWithNET6.FileStreamPerf.WriteAsync" --job "Default" --benchmarkId 1 in C:\KnowledgeCodes\NET6 Previews\NET6_Features\FileStreamPerformanceWithNET6\bin\Release\net6.0\ae15f5c7-fe62-4440-b2cd-01822e8395e4\bin\Release\net6.0
+// BeforeAnythingElse
+
+// Benchmark Process Environment Information:
+// Runtime=.NET 6.0.0 (6.0.21.25307), X64 RyuJIT
+// GC=Concurrent Workstation
+// Job: DefaultJob
+
+OverheadJitting  1: 1 op, 269300.00 ns, 269.3000 us/op
+WorkloadJitting  1: 1 op, 13652300.00 ns, 13.6523 ms/op
+
+OverheadJitting  2: 16 op, 234900.00 ns, 14.6813 us/op
+WorkloadJitting  2: 16 op, 41874300.00 ns, 2.6171 ms/op
+
+WorkloadPilot    1: 16 op, 42126500.00 ns, 2.6329 ms/op
+WorkloadPilot    2: 32 op, 77667600.00 ns, 2.4271 ms/op
+WorkloadPilot    3: 64 op, 155391900.00 ns, 2.4280 ms/op
+WorkloadPilot    4: 128 op, 319810900.00 ns, 2.4985 ms/op
+WorkloadPilot    5: 256 op, 587907200.00 ns, 2.2965 ms/op
+
+OverheadWarmup   1: 256 op, 7800.00 ns, 30.4688 ns/op
+OverheadWarmup   2: 256 op, 1300.00 ns, 5.0781 ns/op
+OverheadWarmup   3: 256 op, 1300.00 ns, 5.0781 ns/op
+OverheadWarmup   4: 256 op, 1100.00 ns, 4.2969 ns/op
+OverheadWarmup   5: 256 op, 1000.00 ns, 3.9062 ns/op
+OverheadWarmup   6: 256 op, 1000.00 ns, 3.9062 ns/op
+OverheadWarmup   7: 256 op, 1600.00 ns, 6.2500 ns/op
+
+OverheadActual   1: 256 op, 1300.00 ns, 5.0781 ns/op
+OverheadActual   2: 256 op, 1300.00 ns, 5.0781 ns/op
+OverheadActual   3: 256 op, 1200.00 ns, 4.6875 ns/op
+OverheadActual   4: 256 op, 1200.00 ns, 4.6875 ns/op
+OverheadActual   5: 256 op, 1500.00 ns, 5.8594 ns/op
+OverheadActual   6: 256 op, 1100.00 ns, 4.2969 ns/op
+OverheadActual   7: 256 op, 1300.00 ns, 5.0781 ns/op
+OverheadActual   8: 256 op, 900.00 ns, 3.5156 ns/op
+OverheadActual   9: 

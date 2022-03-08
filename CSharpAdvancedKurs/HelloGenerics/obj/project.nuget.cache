@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/RWIi+SbpeVvfM4XQK+LYOsBc8rHuuPoywArwNw82KU3c7Ta/8JN0kEGh6JlCcEvvjU0ZQQ0m+gZundk0AFfbg==",
+  "success": true,
+  "projectFilePath": "C:\\Aktueller Kurs\\CSharpFortgeschritten_2022_KW10_ppedv-\\CSharpAdvancedKurs\\HelloGenerics\\HelloGenerics.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kw4\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

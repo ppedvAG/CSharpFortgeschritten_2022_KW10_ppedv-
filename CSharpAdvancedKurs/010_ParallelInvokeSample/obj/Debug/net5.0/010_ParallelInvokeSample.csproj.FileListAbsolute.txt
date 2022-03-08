@@ -1,0 +1,15 @@
+C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\010_ParallelInvokeSample\bin\Debug\net5.0\010_ParallelInvokeSample.exe
+C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\010_ParallelInvokeSample\bin\Debug\net5.0\010_ParallelInvokeSample.deps.json
+C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\010_ParallelInvokeSample\bin\Debug\net5.0\010_ParallelInvokeSample.runtimeconfig.json
+C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\010_ParallelInvokeSample\bin\Debug\net5.0\010_ParallelInvokeSample.runtimeconfig.dev.json
+C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\010_ParallelInvokeSample\bin\Debug\net5.0\010_ParallelInvokeSample.dll
+C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\010_ParallelInvokeSample\bin\Debug\net5.0\ref\010_ParallelInvokeSample.dll
+C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\010_ParallelInvokeSample\bin\Debug\net5.0\010_ParallelInvokeSample.pdb
+C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\010_ParallelInvokeSample\obj\Debug\net5.0\010_ParallelInvokeSample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\010_ParallelInvokeSample\obj\Debug\net5.0\010_ParallelInvokeSample.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\010_ParallelInvokeSample\obj\Debug\net5.0\010_ParallelInvokeSample.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\010_ParallelInvokeSample\obj\Debug\net5.0\010_ParallelInvokeSample.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\010_ParallelInvokeSample\obj\Debug\net5.0\010_ParallelInvokeSample.dll
+C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\010_ParallelInvokeSample\obj\Debug\net5.0\ref\010_ParallelInvokeSample.dll
+C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\010_ParallelInvokeSample\obj\Debug\net5.0\010_ParallelInvokeSample.pdb
+C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\010_ParallelInvokeSample\obj\Debug\net5.0\010_ParallelInvokeSample.genruntimeconfig.cache

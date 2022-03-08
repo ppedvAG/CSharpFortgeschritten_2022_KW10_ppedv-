@@ -1,0 +1,15 @@
+C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\StructVsClass\bin\Release\net5.0\Modul019_01_StructVsClass.exe
+C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\StructVsClass\bin\Release\net5.0\Modul019_01_StructVsClass.deps.json
+C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\StructVsClass\bin\Release\net5.0\Modul019_01_StructVsClass.runtimeconfig.json
+C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\StructVsClass\bin\Release\net5.0\Modul019_01_StructVsClass.runtimeconfig.dev.json
+C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\StructVsClass\bin\Release\net5.0\Modul019_01_StructVsClass.dll
+C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\StructVsClass\bin\Release\net5.0\ref\Modul019_01_StructVsClass.dll
+C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\StructVsClass\bin\Release\net5.0\Modul019_01_StructVsClass.pdb
+C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\StructVsClass\obj\Release\net5.0\Modul019_01_StructVsClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\StructVsClass\obj\Release\net5.0\Modul019_01_StructVsClass.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\StructVsClass\obj\Release\net5.0\Modul019_01_StructVsClass.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\StructVsClass\obj\Release\net5.0\Modul019_01_StructVsClass.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\StructVsClass\obj\Release\net5.0\Modul019_01_StructVsClass.dll
+C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\StructVsClass\obj\Release\net5.0\ref\Modul019_01_StructVsClass.dll
+C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\StructVsClass\obj\Release\net5.0\Modul019_01_StructVsClass.pdb
+C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\StructVsClass\obj\Release\net5.0\Modul019_01_StructVsClass.genruntimeconfig.cache

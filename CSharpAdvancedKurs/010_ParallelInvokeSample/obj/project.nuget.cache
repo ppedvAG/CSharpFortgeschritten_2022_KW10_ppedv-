@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/rf4bomZIaf851RZStivRxQFuVLMs3RM4m1U0mURWh7XzYTPirEkMCOXzTM7WGTAGq84u0UT4Zp/bGI2/YJolQ==",
+  "success": true,
+  "projectFilePath": "C:\\Aktueller Kurs\\CSharpFortgeschritten_2022_KW10_ppedv-\\CSharpAdvancedKurs\\010_ParallelInvokeSample\\010_ParallelInvokeSample.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kw4\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

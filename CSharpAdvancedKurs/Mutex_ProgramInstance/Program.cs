@@ -6,6 +6,7 @@ namespace Mutex_ProgramInstance
     internal class Program
     {
         static Mutex mutex;
+
         static void Main(string[] args)
         {
             if (Program.IsSingleInstance())
@@ -19,7 +20,6 @@ namespace Mutex_ProgramInstance
 
             Console.ReadLine();
         }
-
 
         static bool IsSingleInstance()
         {

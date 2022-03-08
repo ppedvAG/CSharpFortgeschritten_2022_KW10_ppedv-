@@ -1,0 +1,5 @@
+C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\002_Task_Beenden\bin\Release\net5.0\publish\002_Task_Beenden.exe
+C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\002_Task_Beenden\bin\Release\net5.0\publish\002_Task_Beenden.dll
+C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\002_Task_Beenden\bin\Release\net5.0\publish\002_Task_Beenden.deps.json
+C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\002_Task_Beenden\bin\Release\net5.0\publish\002_Task_Beenden.runtimeconfig.json
+C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\002_Task_Beenden\bin\Release\net5.0\publish\002_Task_Beenden.pdb
