@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GjEdXAvkmw1xC2S26qAJItCdHOOqJhif/+KqaFsvAplqBdLoFesDjxRZ+OqKQdwkUosQeII3eZ3l4uS6pN/M2w==",
+  "dgSpecHash": "blmOsYIRhDo+rebgFuva1s8g3gBWwSxfrh4KO17XH+/vBKsvFfdL3V6UiPpfrYYz9ToD/+usActR09xByJ278Q==",
   "success": true,
-  "projectFilePath": "C:\\Aktueller Kurs\\CSharpFortgeschritten_2022_KW10_ppedv-\\CSharpAdvancedKurs\\Thread_BeendenWithCancelation\\Thread_BeendenWithCancelation.csproj",
+  "projectFilePath": "C:\\Aktueller Kurs\\CSharpFortgeschritten_2022_KW10_ppedv-\\CSharpAdvancedKurs\\Thread_BeendenWithCancelation\\003b_Thread_BeendenWithCancelation.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kw4\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
   ],

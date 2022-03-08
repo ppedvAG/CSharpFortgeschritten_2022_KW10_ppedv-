@@ -85,7 +85,32 @@
       "ProjectGuid": "ecd8fc28-2c27-4a12-9818-04a344622b07",
       "DisplayName": "001a_ThreadStarten",
       "ColorIndex": 15
+    },
+    "eb511fdf-dd9d-4eed-97a2-6fe25c0bc515": {
+      "ProjectGuid": "eb511fdf-dd9d-4eed-97a2-6fe25c0bc515",
+      "DisplayName": "001_ThreadStarten",
+      "ColorIndex": 0
+    },
+    "6150c928-3482-440d-bfe2-9ac329ee0c7c": {
+      "ProjectGuid": "6150c928-3482-440d-bfe2-9ac329ee0c7c",
+      "DisplayName": "002_ThreadMitParameterStarten",
+      "ColorIndex": 1
+    },
+    "734ce716-7f6c-467d-9518-9252c9ffaed8": {
+      "ProjectGuid": "734ce716-7f6c-467d-9518-9252c9ffaed8",
+      "DisplayName": "003_Thread_Beenden",
+      "ColorIndex": 2
+    },
+    "2f76a93e-9da6-457d-9aa5-3ae4b7f8e531": {
+      "ProjectGuid": "2f76a93e-9da6-457d-9aa5-3ae4b7f8e531",
+      "DisplayName": "003a_Thread_Beenden",
+      "ColorIndex": 3
+    },
+    "3f7d80de-dac3-4ae4-833b-de4dc915d6e8": {
+      "ProjectGuid": "3f7d80de-dac3-4ae4-833b-de4dc915d6e8",
+      "DisplayName": "Thread_BeendenWithCancelation",
+      "ColorIndex": 4
     }
   },
-  "NextColorIndex": 0
+  "NextColorIndex": 5
 }

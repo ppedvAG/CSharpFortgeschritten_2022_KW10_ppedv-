@@ -15,9 +15,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Aktueller Kurs\\CSharpFortgeschritten_2022_KW10_ppedv-\\CSharpAdvancedKurs\\Thread_BeendenWithCancelation\\Thread_BeendenWithCancelation.csproj",
-      "projectName": "Thread_BeendenWithCancelation",
-      "projectPath": "C:\\Aktueller Kurs\\CSharpFortgeschritten_2022_KW10_ppedv-\\CSharpAdvancedKurs\\Thread_BeendenWithCancelation\\Thread_BeendenWithCancelation.csproj",
+      "projectUniqueName": "C:\\Aktueller Kurs\\CSharpFortgeschritten_2022_KW10_ppedv-\\CSharpAdvancedKurs\\Thread_BeendenWithCancelation\\003b_Thread_BeendenWithCancelation.csproj",
+      "projectName": "003b_Thread_BeendenWithCancelation",
+      "projectPath": "C:\\Aktueller Kurs\\CSharpFortgeschritten_2022_KW10_ppedv-\\CSharpAdvancedKurs\\Thread_BeendenWithCancelation\\003b_Thread_BeendenWithCancelation.csproj",
       "packagesPath": "C:\\Users\\kw4\\.nuget\\packages\\",
       "outputPath": "C:\\Aktueller Kurs\\CSharpFortgeschritten_2022_KW10_ppedv-\\CSharpAdvancedKurs\\Thread_BeendenWithCancelation\\obj\\",
       "projectStyle": "PackageReference",
