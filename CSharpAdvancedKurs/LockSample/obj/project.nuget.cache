@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "N1mV1xPI1eBW0E3Zu9LjWYkIIe7828hiZScV9uPXofrceVH68rt3/Jg09H6gQIzhuWpexal5/0s+cFk3wWNjIg==",
+  "dgSpecHash": "IyMZVU+f1iJ1OYJxb11Htr6mnfVstlcy78klo5twxUbzcsiaTmYSVifdJCm4Rkywbblmfhk6foPR/g8hQ/hDUQ==",
   "success": true,
-  "projectFilePath": "C:\\Aktueller Kurs\\CSharpFortgeschritten_2022_KW10_ppedv-\\CSharpAdvancedKurs\\LockSample\\LockSample.csproj",
+  "projectFilePath": "C:\\Aktueller Kurs\\CSharpFortgeschritten_2022_KW10_ppedv-\\CSharpAdvancedKurs\\LockSample\\007_LockSample.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kw4\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
   ],
