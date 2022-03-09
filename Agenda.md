@@ -23,9 +23,9 @@ Mittwoch:
 		-> https://docs.microsoft.com/de-de/dotnet/csharp/programming-guide/classes-and-structs/access-modifiers
 - [ ] Reflections 
  - [ ] Plugin Pattern (Optional, CodeReview)
-- [ ] Serialisierung
+- [x] Serialisierung
 - [ ] Linq / Lambda 
-- [ ] Erweiterungsmethoden  
+- [x] Erweiterungsmethoden  
 - [ ] Operatoren
 - [ ] Anonyme Typen + dynamische Typen
 
