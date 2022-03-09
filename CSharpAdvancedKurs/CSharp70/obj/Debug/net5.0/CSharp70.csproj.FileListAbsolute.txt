@@ -1,0 +1,15 @@
+C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\CSharp70\bin\Debug\net5.0\CSharp70.exe
+C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\CSharp70\bin\Debug\net5.0\CSharp70.deps.json
+C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\CSharp70\bin\Debug\net5.0\CSharp70.runtimeconfig.json
+C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\CSharp70\bin\Debug\net5.0\CSharp70.runtimeconfig.dev.json
+C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\CSharp70\bin\Debug\net5.0\CSharp70.dll
+C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\CSharp70\bin\Debug\net5.0\ref\CSharp70.dll
+C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\CSharp70\bin\Debug\net5.0\CSharp70.pdb
+C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\CSharp70\obj\Debug\net5.0\CSharp70.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\CSharp70\obj\Debug\net5.0\CSharp70.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\CSharp70\obj\Debug\net5.0\CSharp70.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\CSharp70\obj\Debug\net5.0\CSharp70.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\CSharp70\obj\Debug\net5.0\CSharp70.dll
+C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\CSharp70\obj\Debug\net5.0\ref\CSharp70.dll
+C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\CSharp70\obj\Debug\net5.0\CSharp70.pdb
+C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\CSharp70\obj\Debug\net5.0\CSharp70.genruntimeconfig.cache

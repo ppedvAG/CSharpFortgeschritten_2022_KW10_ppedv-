@@ -51,7 +51,7 @@ namespace AppWithPlugin
                 //IEnumerable<ICommand> beinhaltet von jeder Dll die Implementierung via Interface (Zugriff) 
                 //Achtung Select Many macht eine Schleife
 
-                IList<ICommand> commands = new List<ICommand>();
+                IList<ICommand> commands = new List<ICommand>(); //hiwer werden die geladenen Plugins gelistet
 
 
                 foreach(string relativeDllPath in pluginPaths)

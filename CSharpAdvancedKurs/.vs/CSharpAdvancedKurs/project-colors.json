@@ -230,7 +230,27 @@
       "ProjectGuid": "dacdc743-18c9-4c1e-bf9e-0dff4d4aad5c",
       "DisplayName": "GenericConstraintSample",
       "ColorIndex": 12
+    },
+    "f0ca979f-4514-4355-9441-80d2f5d50dcf": {
+      "ProjectGuid": "f0ca979f-4514-4355-9441-80d2f5d50dcf",
+      "DisplayName": "AsyncAwaitPattern",
+      "ColorIndex": 13
+    },
+    "aae37df7-0ac0-4a77-9779-bfab44e9844e": {
+      "ProjectGuid": "aae37df7-0ac0-4a77-9779-bfab44e9844e",
+      "DisplayName": "HelloSerialization",
+      "ColorIndex": 14
+    },
+    "7350bea1-fa58-48f1-aa93-32a8ae533063": {
+      "ProjectGuid": "7350bea1-fa58-48f1-aa93-32a8ae533063",
+      "DisplayName": "Taschenrechner",
+      "ColorIndex": 15
+    },
+    "59f7b092-906b-470e-95e8-6547db0a5b6a": {
+      "ProjectGuid": "59f7b092-906b-470e-95e8-6547db0a5b6a",
+      "DisplayName": "TaschenrechnerApp",
+      "ColorIndex": 0
     }
   },
-  "NextColorIndex": 13
+  "NextColorIndex": 1
 }

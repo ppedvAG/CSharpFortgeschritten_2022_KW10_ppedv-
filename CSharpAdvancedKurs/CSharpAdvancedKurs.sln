@@ -113,15 +113,21 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GenericConstraintSample", "
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Serialisierung", "Serialisierung", "{CFA6FE61-898A-414D-95DC-D5BF81FC21B8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsyncAwaitPattern", "AsyncAwaitPattern\AsyncAwaitPattern.csproj", "{F0CA979F-4514-4355-9441-80D2F5D50DCF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AsyncAwaitPattern", "AsyncAwaitPattern\AsyncAwaitPattern.csproj", "{F0CA979F-4514-4355-9441-80D2F5D50DCF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloSerialization", "HelloSerialization\HelloSerialization.csproj", "{AAE37DF7-0AC0-4A77-9779-BFAB44E9844E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HelloSerialization", "HelloSerialization\HelloSerialization.csproj", "{AAE37DF7-0AC0-4A77-9779-BFAB44E9844E}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Reflections", "Reflections", "{CB9DB4D9-3876-4FDB-8291-E8EE91212ED1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Taschenrechner", "Taschenrechner\Taschenrechner.csproj", "{7350BEA1-FA58-48F1-AA93-32A8AE533063}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Taschenrechner", "Taschenrechner\Taschenrechner.csproj", "{7350BEA1-FA58-48F1-AA93-32A8AE533063}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaschenrechnerApp", "TaschenrechnerApp\TaschenrechnerApp.csproj", "{59F7B092-906B-470E-95E8-6547DB0A5B6A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TaschenrechnerApp", "TaschenrechnerApp\TaschenrechnerApp.csproj", "{59F7B092-906B-470E-95E8-6547DB0A5B6A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Sprachfeatures", "Sprachfeatures", "{4A40E3F0-DB68-4BC8-BD99-2FEAEA716F22}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp70", "CSharp70\CSharp70.csproj", "{3A23EB45-87B3-458A-BA46-5D5EE712AC79}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp71", "CSharp71\CSharp71.csproj", "{9C5186CA-74FF-4357-8FC7-C121ADBC0F7A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -313,6 +319,14 @@ Global
 		{59F7B092-906B-470E-95E8-6547DB0A5B6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{59F7B092-906B-470E-95E8-6547DB0A5B6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{59F7B092-906B-470E-95E8-6547DB0A5B6A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A23EB45-87B3-458A-BA46-5D5EE712AC79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A23EB45-87B3-458A-BA46-5D5EE712AC79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A23EB45-87B3-458A-BA46-5D5EE712AC79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A23EB45-87B3-458A-BA46-5D5EE712AC79}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C5186CA-74FF-4357-8FC7-C121ADBC0F7A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C5186CA-74FF-4357-8FC7-C121ADBC0F7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C5186CA-74FF-4357-8FC7-C121ADBC0F7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C5186CA-74FF-4357-8FC7-C121ADBC0F7A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -365,6 +379,8 @@ Global
 		{AAE37DF7-0AC0-4A77-9779-BFAB44E9844E} = {CFA6FE61-898A-414D-95DC-D5BF81FC21B8}
 		{7350BEA1-FA58-48F1-AA93-32A8AE533063} = {CB9DB4D9-3876-4FDB-8291-E8EE91212ED1}
 		{59F7B092-906B-470E-95E8-6547DB0A5B6A} = {CB9DB4D9-3876-4FDB-8291-E8EE91212ED1}
+		{3A23EB45-87B3-458A-BA46-5D5EE712AC79} = {4A40E3F0-DB68-4BC8-BD99-2FEAEA716F22}
+		{9C5186CA-74FF-4357-8FC7-C121ADBC0F7A} = {4A40E3F0-DB68-4BC8-BD99-2FEAEA716F22}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {ECEBA34A-57D2-4D7E-AC73-655650BE7114}

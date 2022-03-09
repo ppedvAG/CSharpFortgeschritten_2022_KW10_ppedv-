@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JCKgVxVJqMXl2XyGFEc6rLC+NqD8DDXZNkUfgsIKty3RYgyMUv4g8uV/dXd16YT6DI4FWvKBKQHH6t4OBUekhg==",
+  "dgSpecHash": "5Q+ILdIKvo5xE75ZUbTL2/QcDL3UquwM6XDeZIOLg3s8W7HufyUFy7s1cWISFznsPEErfhzcjF/+9z47RGed7A==",
   "success": true,
-  "projectFilePath": "C:\\Aktueller Kurs\\CSharpAdvanced_KW08_ppedv\\AppWithPlugin\\PluginBase\\PluginBase.csproj",
+  "projectFilePath": "C:\\Aktueller Kurs\\CSharpFortgeschritten_2022_KW10_ppedv-\\AppWithPlugin\\PluginBase\\PluginBase.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
