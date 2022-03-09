@@ -108,9 +108,129 @@
     },
     "3f7d80de-dac3-4ae4-833b-de4dc915d6e8": {
       "ProjectGuid": "3f7d80de-dac3-4ae4-833b-de4dc915d6e8",
-      "DisplayName": "Thread_BeendenWithCancelation",
+      "DisplayName": "003b_Thread_BeendenWithCancelation",
       "ColorIndex": 4
+    },
+    "28b32e2d-a163-4fc8-9b18-96c34be394af": {
+      "ProjectGuid": "28b32e2d-a163-4fc8-9b18-96c34be394af",
+      "DisplayName": "004_ThreadWithParametersAndReturnValue",
+      "ColorIndex": 5
+    },
+    "94c2bde6-10ee-4b00-92c1-f339d95b9c5d": {
+      "ProjectGuid": "94c2bde6-10ee-4b00-92c1-f339d95b9c5d",
+      "DisplayName": "005_ThreadWithCallback",
+      "ColorIndex": 6
+    },
+    "5c51a2a8-4d81-4b88-9af1-55bfb619de5d": {
+      "ProjectGuid": "5c51a2a8-4d81-4b88-9af1-55bfb619de5d",
+      "DisplayName": "006_ThreadPool",
+      "ColorIndex": 7
+    },
+    "b4232358-6e19-410c-8b78-2b04a1ec8e3a": {
+      "ProjectGuid": "b4232358-6e19-410c-8b78-2b04a1ec8e3a",
+      "DisplayName": "007_LockSample",
+      "ColorIndex": 8
+    },
+    "8a6d9703-3c50-467c-9f5d-8835df0c16be": {
+      "ProjectGuid": "8a6d9703-3c50-467c-9f5d-8835df0c16be",
+      "DisplayName": "008_MonitorSample",
+      "ColorIndex": 9
+    },
+    "ff016c4a-37a3-40a1-a077-370529144eb8": {
+      "ProjectGuid": "ff016c4a-37a3-40a1-a077-370529144eb8",
+      "DisplayName": "009_Mutex",
+      "ColorIndex": 10
+    },
+    "ef146269-a32a-4c7d-a49d-3a6bd90fc09e": {
+      "ProjectGuid": "ef146269-a32a-4c7d-a49d-3a6bd90fc09e",
+      "DisplayName": "Mutex_ProgramInstance",
+      "ColorIndex": 11
+    },
+    "e3cb758b-aea9-4638-a6de-0198fa537b1a": {
+      "ProjectGuid": "e3cb758b-aea9-4638-a6de-0198fa537b1a",
+      "DisplayName": "001_Task_starten",
+      "ColorIndex": 12
+    },
+    "c04bc33f-fa9d-4573-85f0-0a2b48abfa64": {
+      "ProjectGuid": "c04bc33f-fa9d-4573-85f0-0a2b48abfa64",
+      "DisplayName": "002_Task_Beenden",
+      "ColorIndex": 13
+    },
+    "c2da5712-6dd8-4471-8717-6d50143696d0": {
+      "ProjectGuid": "c2da5712-6dd8-4471-8717-6d50143696d0",
+      "DisplayName": "003_TaskFactorySample",
+      "ColorIndex": 14
+    },
+    "173d7fd0-e6b0-4480-b977-4088f6f90377": {
+      "ProjectGuid": "173d7fd0-e6b0-4480-b977-4088f6f90377",
+      "DisplayName": "004_TaskMitParameter",
+      "ColorIndex": 15
+    },
+    "bd098a8e-23c2-4c63-95f3-d288a46fe753": {
+      "ProjectGuid": "bd098a8e-23c2-4c63-95f3-d288a46fe753",
+      "DisplayName": "005_Task_Exceptions",
+      "ColorIndex": 0
+    },
+    "bc5e9ad8-8dad-4d3e-9832-41dffdefbf3d": {
+      "ProjectGuid": "bc5e9ad8-8dad-4d3e-9832-41dffdefbf3d",
+      "DisplayName": "006_ContinueWithSample",
+      "ColorIndex": 1
+    },
+    "8385134a-c9ca-454d-98df-2e63aa49a170": {
+      "ProjectGuid": "8385134a-c9ca-454d-98df-2e63aa49a170",
+      "DisplayName": "007_ContinueWithParams",
+      "ColorIndex": 2
+    },
+    "d26f68ff-cbb9-4212-ad45-a4168ae31d5a": {
+      "ProjectGuid": "d26f68ff-cbb9-4212-ad45-a4168ae31d5a",
+      "DisplayName": "008_Task_WhenAll",
+      "ColorIndex": 3
+    },
+    "357375dc-c4fc-46fc-ad3e-f8f724e349cd": {
+      "ProjectGuid": "357375dc-c4fc-46fc-ad3e-f8f724e349cd",
+      "DisplayName": "009_UnwrapSample",
+      "ColorIndex": 4
+    },
+    "a45464cb-48cd-4458-85df-b107b11f98cb": {
+      "ProjectGuid": "a45464cb-48cd-4458-85df-b107b11f98cb",
+      "DisplayName": "010_ParallelInvokeSample",
+      "ColorIndex": 5
+    },
+    "765d9cc7-f2d5-4c24-9478-bcbbab762a8f": {
+      "ProjectGuid": "765d9cc7-f2d5-4c24-9478-bcbbab762a8f",
+      "DisplayName": "BenchmarkTestParallelForVsFor",
+      "ColorIndex": 6
+    },
+    "60ca8bcd-a1a3-4f63-8be3-1e72630e6928": {
+      "ProjectGuid": "60ca8bcd-a1a3-4f63-8be3-1e72630e6928",
+      "DisplayName": "FileStreamPerformanceWithNET5",
+      "ColorIndex": 7
+    },
+    "c6883327-0851-4fac-adb2-430019ccf4c8": {
+      "ProjectGuid": "c6883327-0851-4fac-adb2-430019ccf4c8",
+      "DisplayName": "FileStreamPerformanceWithNET6",
+      "ColorIndex": 8
+    },
+    "4a1c9ad2-08b7-4f97-bc72-c94e930fe5de": {
+      "ProjectGuid": "4a1c9ad2-08b7-4f97-bc72-c94e930fe5de",
+      "DisplayName": "HelloGenerics",
+      "ColorIndex": 9
+    },
+    "e942fda9-016a-4a38-b70b-ab69540aad2f": {
+      "ProjectGuid": "e942fda9-016a-4a38-b70b-ab69540aad2f",
+      "DisplayName": "ValueAndReferenceType",
+      "ColorIndex": 10
+    },
+    "913d499b-aceb-449d-ae04-97d9f5fa7ea4": {
+      "ProjectGuid": "913d499b-aceb-449d-ae04-97d9f5fa7ea4",
+      "DisplayName": "Modul019_01_StructVsClass",
+      "ColorIndex": 11
+    },
+    "dacdc743-18c9-4c1e-bf9e-0dff4d4aad5c": {
+      "ProjectGuid": "dacdc743-18c9-4c1e-bf9e-0dff4d4aad5c",
+      "DisplayName": "GenericConstraintSample",
+      "ColorIndex": 12
     }
   },
-  "NextColorIndex": 5
+  "NextColorIndex": 13
 }

@@ -12,10 +12,10 @@ Montag
 - [ ] Interfaces vs abstract in Verbindung mit dem Builder Design Pattern 
 
 Dienstag
-- [ ] Threading
-- [ ] TPL
+- [x] Threading
+- [x] TPL
 - [ ] async / await
-- [ ] Genrics
+- [x] Genrics
 
 Mittwoch:
 

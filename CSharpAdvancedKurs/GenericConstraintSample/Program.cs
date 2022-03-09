@@ -17,7 +17,7 @@ namespace GenericConstraintSample
             //DataStore<ArrayList> store6 = new DataStore<ArrayList>();
             //DataStore<MyRecord> store7 = new DataStore<MyRecord>();
 
-            //DataStore1<T> where T : struct 
+            ////DataStore1<T> where T : struct 
             //DataStore1<string> store7 = new DataStore1<string>();
             //DataStore1<MyClass> store8 = new DataStore1<MyClass>();
             //DataStore1<IMyInterface> store9 = new DataStore1<IMyInterface>();
@@ -32,6 +32,18 @@ namespace GenericConstraintSample
             map.DataTypeOftheYear<DateTime>(DateTime.Now);
         }
     }
+
+
+
+
+
+
+
+
+
+
+
+
 
 
     //In T dürfen nur Referenztypen (Klasse, Interfaces, string, List<T>,  .... )

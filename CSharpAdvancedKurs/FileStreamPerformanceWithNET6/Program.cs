@@ -12,7 +12,7 @@ namespace FileStreamPerformanceWithNET6
         {
             var summary = BenchmarkRunner.Run<FileStreamPerf>();
 
-            ungeConsole.ReadKey();
+            Console.ReadKey();
         }
     }
 
