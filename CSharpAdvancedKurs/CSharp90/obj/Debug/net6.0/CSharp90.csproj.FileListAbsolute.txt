@@ -12,3 +12,4 @@ C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\CSha
 C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\CSharp90\obj\Debug\net6.0\ref\CSharp90.dll
 C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\CSharp90\obj\Debug\net6.0\CSharp90.pdb
 C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\CSharp90\obj\Debug\net6.0\CSharp90.genruntimeconfig.cache
+C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\CSharp90\obj\Debug\net6.0\CSharp90.csproj.AssemblyReference.cache

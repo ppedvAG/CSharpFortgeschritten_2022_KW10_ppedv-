@@ -1,0 +1,15 @@
+C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\HelloGenerics\bin\Debug\net5.0\HelloGenerics.exe
+C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\HelloGenerics\bin\Debug\net5.0\HelloGenerics.deps.json
+C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\HelloGenerics\bin\Debug\net5.0\HelloGenerics.runtimeconfig.json
+C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\HelloGenerics\bin\Debug\net5.0\HelloGenerics.runtimeconfig.dev.json
+C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\HelloGenerics\bin\Debug\net5.0\HelloGenerics.dll
+C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\HelloGenerics\bin\Debug\net5.0\ref\HelloGenerics.dll
+C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\HelloGenerics\bin\Debug\net5.0\HelloGenerics.pdb
+C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\HelloGenerics\obj\Debug\net5.0\HelloGenerics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\HelloGenerics\obj\Debug\net5.0\HelloGenerics.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\HelloGenerics\obj\Debug\net5.0\HelloGenerics.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\HelloGenerics\obj\Debug\net5.0\HelloGenerics.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\HelloGenerics\obj\Debug\net5.0\HelloGenerics.dll
+C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\HelloGenerics\obj\Debug\net5.0\ref\HelloGenerics.dll
+C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\HelloGenerics\obj\Debug\net5.0\HelloGenerics.pdb
+C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\HelloGenerics\obj\Debug\net5.0\HelloGenerics.genruntimeconfig.cache

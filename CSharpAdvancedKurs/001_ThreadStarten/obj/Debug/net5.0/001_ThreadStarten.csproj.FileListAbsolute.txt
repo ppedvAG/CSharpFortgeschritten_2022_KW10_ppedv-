@@ -5,7 +5,6 @@ C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\001_
 C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\001_ThreadStarten\bin\Debug\net5.0\001_ThreadStarten.dll
 C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\001_ThreadStarten\bin\Debug\net5.0\ref\001_ThreadStarten.dll
 C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\001_ThreadStarten\bin\Debug\net5.0\001_ThreadStarten.pdb
-C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\001_ThreadStarten\obj\Debug\net5.0\001_ThreadStarten.csproj.AssemblyReference.cache
 C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\001_ThreadStarten\obj\Debug\net5.0\001_ThreadStarten.GeneratedMSBuildEditorConfig.editorconfig
 C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\001_ThreadStarten\obj\Debug\net5.0\001_ThreadStarten.AssemblyInfoInputs.cache
 C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\001_ThreadStarten\obj\Debug\net5.0\001_ThreadStarten.AssemblyInfo.cs

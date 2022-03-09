@@ -5,7 +5,6 @@ C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\Dele
 C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\DelegatesActionsFuncsSamples\bin\Debug\net5.0\DelegatesActionsFuncsSamples.dll
 C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\DelegatesActionsFuncsSamples\bin\Debug\net5.0\ref\DelegatesActionsFuncsSamples.dll
 C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\DelegatesActionsFuncsSamples\bin\Debug\net5.0\DelegatesActionsFuncsSamples.pdb
-C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\DelegatesActionsFuncsSamples\obj\Debug\net5.0\DelegatesActionsFuncsSamples.csproj.AssemblyReference.cache
 C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\DelegatesActionsFuncsSamples\obj\Debug\net5.0\DelegatesActionsFuncsSamples.GeneratedMSBuildEditorConfig.editorconfig
 C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\DelegatesActionsFuncsSamples\obj\Debug\net5.0\DelegatesActionsFuncsSamples.AssemblyInfoInputs.cache
 C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\DelegatesActionsFuncsSamples\obj\Debug\net5.0\DelegatesActionsFuncsSamples.AssemblyInfo.cs

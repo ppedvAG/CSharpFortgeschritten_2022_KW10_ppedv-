@@ -250,7 +250,57 @@
       "ProjectGuid": "59f7b092-906b-470e-95e8-6547db0a5b6a",
       "DisplayName": "TaschenrechnerApp",
       "ColorIndex": 0
+    },
+    "3a23eb45-87b3-458a-ba46-5d5ee712ac79": {
+      "ProjectGuid": "3a23eb45-87b3-458a-ba46-5d5ee712ac79",
+      "DisplayName": "CSharp70",
+      "ColorIndex": 1
+    },
+    "9c5186ca-74ff-4357-8fc7-c121adbc0f7a": {
+      "ProjectGuid": "9c5186ca-74ff-4357-8fc7-c121adbc0f7a",
+      "DisplayName": "CSharp71",
+      "ColorIndex": 2
+    },
+    "7066dbd7-cc15-4aee-bf4a-516e486efce3": {
+      "ProjectGuid": "7066dbd7-cc15-4aee-bf4a-516e486efce3",
+      "DisplayName": "CSharp80",
+      "ColorIndex": 3
+    },
+    "138724cb-3558-4f93-9d85-4ade92c106ee": {
+      "ProjectGuid": "138724cb-3558-4f93-9d85-4ade92c106ee",
+      "DisplayName": "CSharp90",
+      "ColorIndex": 4
+    },
+    "376a7732-e900-4c39-b71b-beb4c5571274": {
+      "ProjectGuid": "376a7732-e900-4c39-b71b-beb4c5571274",
+      "DisplayName": "CSharp90WithNET6",
+      "ColorIndex": 5
+    },
+    "4b610112-5e65-4bf2-95cc-5e5d6c5eb1be": {
+      "ProjectGuid": "4b610112-5e65-4bf2-95cc-5e5d6c5eb1be",
+      "DisplayName": "CSharp90",
+      "ColorIndex": 6
+    },
+    "bca2769c-15c7-45d4-898f-a03a18bed809": {
+      "ProjectGuid": "bca2769c-15c7-45d4-898f-a03a18bed809",
+      "DisplayName": "WebApplication1",
+      "ColorIndex": 7
+    },
+    "90a9999b-d66a-45ef-b492-129a948d033d": {
+      "ProjectGuid": "90a9999b-d66a-45ef-b492-129a948d033d",
+      "DisplayName": "LinqAndLambda",
+      "ColorIndex": 8
+    },
+    "e06b45d7-2ee3-48eb-89dd-3025838ffc8d": {
+      "ProjectGuid": "e06b45d7-2ee3-48eb-89dd-3025838ffc8d",
+      "DisplayName": "AnonymeTypen",
+      "ColorIndex": 9
+    },
+    "99ca16ee-fe92-411a-b138-31bc14808694": {
+      "ProjectGuid": "99ca16ee-fe92-411a-b138-31bc14808694",
+      "DisplayName": "DataAccess_SQLClient",
+      "ColorIndex": 10
     }
   },
-  "NextColorIndex": 1
+  "NextColorIndex": 11
 }

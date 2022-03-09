@@ -83,7 +83,6 @@ C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\Übu
 C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\Übung_Solid1\bin\Debug\netcoreapp3.1\Übung_Solid1.runtimeconfig.dev.json
 C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\Übung_Solid1\bin\Debug\netcoreapp3.1\Übung_Solid1.dll
 C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\Übung_Solid1\bin\Debug\netcoreapp3.1\Übung_Solid1.pdb
-C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\Übung_Solid1\obj\Debug\netcoreapp3.1\Übung_Solid1.csproj.AssemblyReference.cache
 C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\Übung_Solid1\obj\Debug\netcoreapp3.1\Übung_Solid1.GeneratedMSBuildEditorConfig.editorconfig
 C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\Übung_Solid1\obj\Debug\netcoreapp3.1\Übung_Solid1.AssemblyInfoInputs.cache
 C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\Übung_Solid1\obj\Debug\netcoreapp3.1\Übung_Solid1.AssemblyInfo.cs
@@ -91,3 +90,4 @@ C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\Übu
 C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\Übung_Solid1\obj\Debug\netcoreapp3.1\Übung_Solid1.dll
 C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\Übung_Solid1\obj\Debug\netcoreapp3.1\Übung_Solid1.pdb
 C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\Übung_Solid1\obj\Debug\netcoreapp3.1\Übung_Solid1.genruntimeconfig.cache
+C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\Übung_Solid1\obj\Debug\netcoreapp3.1\Übung_Solid1.csproj.AssemblyReference.cache

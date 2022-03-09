@@ -67,7 +67,7 @@ namespace HelloSerialization
 
 
             List<string> strList = new List<string>();
-            strList.Where
+            
         }
     }
 

@@ -9,3 +9,4 @@ C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\Tasc
 C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\Taschenrechner\obj\Debug\net5.0\Taschenrechner.dll
 C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\Taschenrechner\obj\Debug\net5.0\ref\Taschenrechner.dll
 C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\Taschenrechner\obj\Debug\net5.0\Taschenrechner.pdb
+C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\Taschenrechner\obj\Debug\net5.0\Taschenrechner.csproj.AssemblyReference.cache

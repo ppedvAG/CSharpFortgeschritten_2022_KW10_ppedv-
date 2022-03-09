@@ -5,7 +5,6 @@ C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\SOLI
 C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\SOLID_OpenClosePrincipe\bin\Debug\net5.0\SOLID_OpenClosePrincipe.dll
 C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\SOLID_OpenClosePrincipe\bin\Debug\net5.0\ref\SOLID_OpenClosePrincipe.dll
 C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\SOLID_OpenClosePrincipe\bin\Debug\net5.0\SOLID_OpenClosePrincipe.pdb
-C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\SOLID_OpenClosePrincipe\obj\Debug\net5.0\SOLID_OpenClosePrincipe.csproj.AssemblyReference.cache
 C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\SOLID_OpenClosePrincipe\obj\Debug\net5.0\SOLID_OpenClosePrincipe.GeneratedMSBuildEditorConfig.editorconfig
 C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\SOLID_OpenClosePrincipe\obj\Debug\net5.0\SOLID_OpenClosePrincipe.AssemblyInfoInputs.cache
 C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\SOLID_OpenClosePrincipe\obj\Debug\net5.0\SOLID_OpenClosePrincipe.AssemblyInfo.cs

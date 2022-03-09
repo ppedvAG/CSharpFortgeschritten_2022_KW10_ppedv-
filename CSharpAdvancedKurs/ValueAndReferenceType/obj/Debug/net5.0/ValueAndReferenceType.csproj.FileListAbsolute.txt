@@ -1,0 +1,15 @@
+C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\ValueAndReferenceType\bin\Debug\net5.0\ValueAndReferenceType.exe
+C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\ValueAndReferenceType\bin\Debug\net5.0\ValueAndReferenceType.deps.json
+C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\ValueAndReferenceType\bin\Debug\net5.0\ValueAndReferenceType.runtimeconfig.json
+C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\ValueAndReferenceType\bin\Debug\net5.0\ValueAndReferenceType.runtimeconfig.dev.json
+C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\ValueAndReferenceType\bin\Debug\net5.0\ValueAndReferenceType.dll
+C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\ValueAndReferenceType\bin\Debug\net5.0\ref\ValueAndReferenceType.dll
+C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\ValueAndReferenceType\bin\Debug\net5.0\ValueAndReferenceType.pdb
+C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\ValueAndReferenceType\obj\Debug\net5.0\ValueAndReferenceType.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\ValueAndReferenceType\obj\Debug\net5.0\ValueAndReferenceType.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\ValueAndReferenceType\obj\Debug\net5.0\ValueAndReferenceType.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\ValueAndReferenceType\obj\Debug\net5.0\ValueAndReferenceType.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\ValueAndReferenceType\obj\Debug\net5.0\ValueAndReferenceType.dll
+C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\ValueAndReferenceType\obj\Debug\net5.0\ref\ValueAndReferenceType.dll
+C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\ValueAndReferenceType\obj\Debug\net5.0\ValueAndReferenceType.pdb
+C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\ValueAndReferenceType\obj\Debug\net5.0\ValueAndReferenceType.genruntimeconfig.cache

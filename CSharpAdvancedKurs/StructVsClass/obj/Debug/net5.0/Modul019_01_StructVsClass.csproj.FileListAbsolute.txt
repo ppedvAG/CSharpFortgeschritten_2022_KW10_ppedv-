@@ -68,7 +68,6 @@ C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\Stru
 C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\StructVsClass\bin\Debug\net5.0\Modul019_01_StructVsClass.dll
 C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\StructVsClass\bin\Debug\net5.0\ref\Modul019_01_StructVsClass.dll
 C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\StructVsClass\bin\Debug\net5.0\Modul019_01_StructVsClass.pdb
-C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\StructVsClass\obj\Debug\net5.0\Modul019_01_StructVsClass.csproj.AssemblyReference.cache
 C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\StructVsClass\obj\Debug\net5.0\Modul019_01_StructVsClass.GeneratedMSBuildEditorConfig.editorconfig
 C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\StructVsClass\obj\Debug\net5.0\Modul019_01_StructVsClass.AssemblyInfoInputs.cache
 C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\StructVsClass\obj\Debug\net5.0\Modul019_01_StructVsClass.AssemblyInfo.cs

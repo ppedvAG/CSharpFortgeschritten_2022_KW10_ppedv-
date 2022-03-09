@@ -17,7 +17,6 @@ C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\Buil
 C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\BuilderPattern\bin\Debug\netcoreapp3.1\BuilderPattern.runtimeconfig.dev.json
 C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\BuilderPattern\bin\Debug\netcoreapp3.1\BuilderPattern.dll
 C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\BuilderPattern\bin\Debug\netcoreapp3.1\BuilderPattern.pdb
-C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\BuilderPattern\obj\Debug\netcoreapp3.1\BuilderPattern.csproj.AssemblyReference.cache
 C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\BuilderPattern\obj\Debug\netcoreapp3.1\BuilderPattern.GeneratedMSBuildEditorConfig.editorconfig
 C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\BuilderPattern\obj\Debug\netcoreapp3.1\BuilderPattern.AssemblyInfoInputs.cache
 C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\BuilderPattern\obj\Debug\netcoreapp3.1\BuilderPattern.AssemblyInfo.cs
@@ -25,3 +24,4 @@ C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\Buil
 C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\BuilderPattern\obj\Debug\netcoreapp3.1\BuilderPattern.dll
 C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\BuilderPattern\obj\Debug\netcoreapp3.1\BuilderPattern.pdb
 C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\BuilderPattern\obj\Debug\netcoreapp3.1\BuilderPattern.genruntimeconfig.cache
+C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\BuilderPattern\obj\Debug\netcoreapp3.1\BuilderPattern.csproj.AssemblyReference.cache

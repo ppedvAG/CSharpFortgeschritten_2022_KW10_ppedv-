@@ -1,0 +1,15 @@
+C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\003_TaskFactorySample\bin\Debug\net5.0\003_TaskFactorySample.exe
+C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\003_TaskFactorySample\bin\Debug\net5.0\003_TaskFactorySample.deps.json
+C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\003_TaskFactorySample\bin\Debug\net5.0\003_TaskFactorySample.runtimeconfig.json
+C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\003_TaskFactorySample\bin\Debug\net5.0\003_TaskFactorySample.runtimeconfig.dev.json
+C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\003_TaskFactorySample\bin\Debug\net5.0\003_TaskFactorySample.dll
+C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\003_TaskFactorySample\bin\Debug\net5.0\ref\003_TaskFactorySample.dll
+C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\003_TaskFactorySample\bin\Debug\net5.0\003_TaskFactorySample.pdb
+C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\003_TaskFactorySample\obj\Debug\net5.0\003_TaskFactorySample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\003_TaskFactorySample\obj\Debug\net5.0\003_TaskFactorySample.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\003_TaskFactorySample\obj\Debug\net5.0\003_TaskFactorySample.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\003_TaskFactorySample\obj\Debug\net5.0\003_TaskFactorySample.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\003_TaskFactorySample\obj\Debug\net5.0\003_TaskFactorySample.dll
+C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\003_TaskFactorySample\obj\Debug\net5.0\ref\003_TaskFactorySample.dll
+C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\003_TaskFactorySample\obj\Debug\net5.0\003_TaskFactorySample.pdb
+C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\003_TaskFactorySample\obj\Debug\net5.0\003_TaskFactorySample.genruntimeconfig.cache

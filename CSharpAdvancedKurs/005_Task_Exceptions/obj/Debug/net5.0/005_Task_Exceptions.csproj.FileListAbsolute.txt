@@ -5,7 +5,6 @@ C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\005_
 C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\005_Task_Exceptions\bin\Debug\net5.0\005_Task_Exceptions.dll
 C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\005_Task_Exceptions\bin\Debug\net5.0\ref\005_Task_Exceptions.dll
 C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\005_Task_Exceptions\bin\Debug\net5.0\005_Task_Exceptions.pdb
-C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\005_Task_Exceptions\obj\Debug\net5.0\005_Task_Exceptions.csproj.AssemblyReference.cache
 C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\005_Task_Exceptions\obj\Debug\net5.0\005_Task_Exceptions.GeneratedMSBuildEditorConfig.editorconfig
 C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\005_Task_Exceptions\obj\Debug\net5.0\005_Task_Exceptions.AssemblyInfoInputs.cache
 C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\005_Task_Exceptions\obj\Debug\net5.0\005_Task_Exceptions.AssemblyInfo.cs

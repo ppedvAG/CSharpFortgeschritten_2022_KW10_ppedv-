@@ -1,0 +1,15 @@
+C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\GenericConstraintSample\bin\Debug\net5.0\GenericConstraintSample.exe
+C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\GenericConstraintSample\bin\Debug\net5.0\GenericConstraintSample.deps.json
+C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\GenericConstraintSample\bin\Debug\net5.0\GenericConstraintSample.runtimeconfig.json
+C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\GenericConstraintSample\bin\Debug\net5.0\GenericConstraintSample.runtimeconfig.dev.json
+C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\GenericConstraintSample\bin\Debug\net5.0\GenericConstraintSample.dll
+C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\GenericConstraintSample\bin\Debug\net5.0\ref\GenericConstraintSample.dll
+C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\GenericConstraintSample\bin\Debug\net5.0\GenericConstraintSample.pdb
+C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\GenericConstraintSample\obj\Debug\net5.0\GenericConstraintSample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\GenericConstraintSample\obj\Debug\net5.0\GenericConstraintSample.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\GenericConstraintSample\obj\Debug\net5.0\GenericConstraintSample.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\GenericConstraintSample\obj\Debug\net5.0\GenericConstraintSample.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\GenericConstraintSample\obj\Debug\net5.0\GenericConstraintSample.dll
+C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\GenericConstraintSample\obj\Debug\net5.0\ref\GenericConstraintSample.dll
+C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\GenericConstraintSample\obj\Debug\net5.0\GenericConstraintSample.pdb
+C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\GenericConstraintSample\obj\Debug\net5.0\GenericConstraintSample.genruntimeconfig.cache

@@ -35,7 +35,7 @@ namespace CSharp80
             Vehicle2 vehilce2 = new Vehicle2();
             vehilce2.Tanken();
 
-            IVehicle castVehicle = (IVehicle)vehicle2;
+            IVehicle castVehicle = (IVehicle)vehilce2;
             castVehicle.Tanken();
             castVehicle.StarteMotor();
 

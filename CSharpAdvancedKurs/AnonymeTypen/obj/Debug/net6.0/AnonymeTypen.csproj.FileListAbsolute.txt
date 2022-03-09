@@ -1,0 +1,14 @@
+C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\AnonymeTypen\bin\Debug\net6.0\AnonymeTypen.exe
+C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\AnonymeTypen\bin\Debug\net6.0\AnonymeTypen.deps.json
+C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\AnonymeTypen\bin\Debug\net6.0\AnonymeTypen.runtimeconfig.json
+C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\AnonymeTypen\bin\Debug\net6.0\AnonymeTypen.dll
+C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\AnonymeTypen\bin\Debug\net6.0\ref\AnonymeTypen.dll
+C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\AnonymeTypen\bin\Debug\net6.0\AnonymeTypen.pdb
+C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\AnonymeTypen\obj\Debug\net6.0\AnonymeTypen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\AnonymeTypen\obj\Debug\net6.0\AnonymeTypen.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\AnonymeTypen\obj\Debug\net6.0\AnonymeTypen.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\AnonymeTypen\obj\Debug\net6.0\AnonymeTypen.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\AnonymeTypen\obj\Debug\net6.0\AnonymeTypen.dll
+C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\AnonymeTypen\obj\Debug\net6.0\ref\AnonymeTypen.dll
+C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\AnonymeTypen\obj\Debug\net6.0\AnonymeTypen.pdb
+C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\AnonymeTypen\obj\Debug\net6.0\AnonymeTypen.genruntimeconfig.cache

@@ -6,7 +6,7 @@ namespace AsyncAwaitPattern
 {
     internal class Program
     {
-        static async void Main(string[] args)
+        static async Task Main(string[] args)
         {
             string conStr = "";
             SqlConnection conn = new SqlConnection(conStr);

@@ -1,0 +1,15 @@
+C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\009_UnwrapSample\bin\Debug\net5.0\009_UnwrapSample.exe
+C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\009_UnwrapSample\bin\Debug\net5.0\009_UnwrapSample.deps.json
+C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\009_UnwrapSample\bin\Debug\net5.0\009_UnwrapSample.runtimeconfig.json
+C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\009_UnwrapSample\bin\Debug\net5.0\009_UnwrapSample.runtimeconfig.dev.json
+C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\009_UnwrapSample\bin\Debug\net5.0\009_UnwrapSample.dll
+C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\009_UnwrapSample\bin\Debug\net5.0\ref\009_UnwrapSample.dll
+C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\009_UnwrapSample\bin\Debug\net5.0\009_UnwrapSample.pdb
+C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\009_UnwrapSample\obj\Debug\net5.0\009_UnwrapSample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\009_UnwrapSample\obj\Debug\net5.0\009_UnwrapSample.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\009_UnwrapSample\obj\Debug\net5.0\009_UnwrapSample.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\009_UnwrapSample\obj\Debug\net5.0\009_UnwrapSample.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\009_UnwrapSample\obj\Debug\net5.0\009_UnwrapSample.dll
+C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\009_UnwrapSample\obj\Debug\net5.0\ref\009_UnwrapSample.dll
+C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\009_UnwrapSample\obj\Debug\net5.0\009_UnwrapSample.pdb
+C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\009_UnwrapSample\obj\Debug\net5.0\009_UnwrapSample.genruntimeconfig.cache

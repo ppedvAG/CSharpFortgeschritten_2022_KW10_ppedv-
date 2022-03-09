@@ -4,7 +4,6 @@ C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\Linq
 C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\LinqAndLambda\bin\Debug\net6.0\LinqAndLambda.dll
 C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\LinqAndLambda\bin\Debug\net6.0\ref\LinqAndLambda.dll
 C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\LinqAndLambda\bin\Debug\net6.0\LinqAndLambda.pdb
-C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\LinqAndLambda\obj\Debug\net6.0\LinqAndLambda.csproj.AssemblyReference.cache
 C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\LinqAndLambda\obj\Debug\net6.0\LinqAndLambda.GeneratedMSBuildEditorConfig.editorconfig
 C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\LinqAndLambda\obj\Debug\net6.0\LinqAndLambda.AssemblyInfoInputs.cache
 C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\LinqAndLambda\obj\Debug\net6.0\LinqAndLambda.AssemblyInfo.cs
@@ -13,3 +12,4 @@ C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\Linq
 C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\LinqAndLambda\obj\Debug\net6.0\ref\LinqAndLambda.dll
 C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\LinqAndLambda\obj\Debug\net6.0\LinqAndLambda.pdb
 C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\LinqAndLambda\obj\Debug\net6.0\LinqAndLambda.genruntimeconfig.cache
+C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\LinqAndLambda\obj\Debug\net6.0\LinqAndLambda.csproj.AssemblyReference.cache

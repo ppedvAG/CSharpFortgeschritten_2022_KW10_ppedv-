@@ -13,6 +13,6 @@ C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\Hell
 C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\HelloSerialization\obj\Debug\net5.0\ref\HelloSerialization.dll
 C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\HelloSerialization\obj\Debug\net5.0\HelloSerialization.pdb
 C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\HelloSerialization\obj\Debug\net5.0\HelloSerialization.genruntimeconfig.cache
-C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\HelloSerialization\obj\Debug\net5.0\HelloSerialization.csproj.AssemblyReference.cache
 C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\HelloSerialization\bin\Debug\net5.0\Newtonsoft.Json.dll
 C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\HelloSerialization\obj\Debug\net5.0\HelloSerialization.csproj.CopyComplete
+C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\HelloSerialization\obj\Debug\net5.0\HelloSerialization.csproj.AssemblyReference.cache

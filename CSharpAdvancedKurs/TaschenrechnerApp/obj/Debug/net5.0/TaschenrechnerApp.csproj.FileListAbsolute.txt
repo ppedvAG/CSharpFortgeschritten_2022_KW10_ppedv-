@@ -5,7 +5,6 @@ C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\Tasc
 C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\TaschenrechnerApp\bin\Debug\net5.0\TaschenrechnerApp.dll
 C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\TaschenrechnerApp\bin\Debug\net5.0\ref\TaschenrechnerApp.dll
 C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\TaschenrechnerApp\bin\Debug\net5.0\TaschenrechnerApp.pdb
-C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\TaschenrechnerApp\obj\Debug\net5.0\TaschenrechnerApp.csproj.AssemblyReference.cache
 C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\TaschenrechnerApp\obj\Debug\net5.0\TaschenrechnerApp.GeneratedMSBuildEditorConfig.editorconfig
 C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\TaschenrechnerApp\obj\Debug\net5.0\TaschenrechnerApp.AssemblyInfoInputs.cache
 C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\TaschenrechnerApp\obj\Debug\net5.0\TaschenrechnerApp.AssemblyInfo.cs
@@ -14,3 +13,4 @@ C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\Tasc
 C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\TaschenrechnerApp\obj\Debug\net5.0\ref\TaschenrechnerApp.dll
 C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\TaschenrechnerApp\obj\Debug\net5.0\TaschenrechnerApp.pdb
 C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\TaschenrechnerApp\obj\Debug\net5.0\TaschenrechnerApp.genruntimeconfig.cache
+C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\TaschenrechnerApp\obj\Debug\net5.0\TaschenrechnerApp.csproj.AssemblyReference.cache
